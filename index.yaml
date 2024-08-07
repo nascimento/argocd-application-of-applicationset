@@ -3,6 +3,16 @@ entries:
   argocd-application-of-applicationset:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2024-08-07T17:25:24.990797552Z"
+    description: A Helm chart for Kubernetes
+    digest: 00a67e24c71ffe1a624e57e1c14bba21698c934f0bbb9f9a44dd342d69920919
+    name: argocd-application-of-applicationset
+    type: application
+    urls:
+    - https://github.com/nascimento/charts/releases/download/argocd-application-of-applicationset-0.0.5/argocd-application-of-applicationset-0.0.5.tgz
+    version: 0.0.5
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2024-08-07T17:14:43.750017855Z"
     description: A Helm chart for Kubernetes
     digest: 63f151e918aafcc2256a25eb9f08785c7d2438e45c78e90dba143bf0bb87b815
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://github.com/nascimento/charts/releases/download/argocd-application-of-applicationset-0.0.2/argocd-application-of-applicationset-0.0.2.tgz
     version: 0.0.2
-generated: "2024-08-07T17:14:43.750033604Z"
+generated: "2024-08-07T17:25:24.990814343Z"
